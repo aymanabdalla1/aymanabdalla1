@@ -70,11 +70,3 @@ I'm passionate about building solutions using a wide range of tools and technolo
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=calm)](https://github.com/abdularif0705/)
 <!-- Check out all the themes you guys can use on ur profile with this link -> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
- 
-<h2>🎧 Current Bangers</h2>
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&redirect=true)
- 
-<!-- ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abdularif0705.abdularif0705&color=00cf00&style=for-the-badge)  -->
