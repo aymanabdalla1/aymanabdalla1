@@ -81,5 +81,5 @@ Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
 ## 📈 Stats
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm) -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanabdalla1&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;)](https://github.com/aymanabdalla1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanabdalla1&layout=compact&theme=dark&hide_border=true)](https://github.com/aymanabdalla1/)
 <!-- Check out all the themes you guys can use on ur profile with this link -> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
