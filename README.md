@@ -2,9 +2,9 @@
 
 I'm a passionate software engineer with experience in full-stack development, machine learning, and cloud technologies. I love building solutions that make a real impact.
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=Portfolio)](https://aymanabdalla.me/) 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:aabdalla12@gmail.com)(mailto:aabdalla12@gmail.com)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ayman-abdalla1/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymanabdalla1.me/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:aabdalla12@gmail.com)](mailto:aabdalla12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-abdalla1/)
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://aymanabdalla.me/resume)
 
 
