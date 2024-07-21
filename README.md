@@ -11,9 +11,9 @@ I'm a passionate software engineer with experience in full-stack development, ma
 
 I'm passionate about building solutions using a wide range of tools and technologies. From front-end to back-end this is what I work with:
 
-### 💻 Programming Languages, Frameworks & Libraries
+## 💻 Programming Languages, Frameworks & Libraries
 
-## 📋 Core Programming Languages**:
+# 📋 Core Programming Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,8 +27,7 @@ I'm passionate about building solutions using a wide range of tools and technolo
 <!-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 <!-- ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  -->
 
-
-## 🌐 App & Web Development**: 
+# 🌐 App & Web Development: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +35,7 @@ I'm passionate about building solutions using a wide range of tools and technolo
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📚Frameworks & Libraries**: 
+# 📚Frameworks & Libraries: 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -46,13 +45,12 @@ I'm passionate about building solutions using a wide range of tools and technolo
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-## 💾 Databases
-Strong data management is crucial for any project. I've worked with relational databases and understand the importance of scalable and efficient data storage solutions:
+# 💾 Databases:
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<!--[Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)-->
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--[Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)-->
 
 
 ## 📝 About Me
@@ -61,9 +59,9 @@ Strong data management is crucial for any project. I've worked with relational d
     <summary>Click to learn more about me!</summary>
     <br>
     I am currently a senior studying Software Engineering at the University of Texas at Arlington, who is passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals.
-
+ <br>
 I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
-    
+ <br>
 Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
     
 
@@ -84,5 +82,5 @@ Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
 ## 📈 Stats
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm) -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=cobalt2)](https://github.com/aymanabdalla1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanabdalla1&layout=compact&theme=cobalt2)](https://github.com/aymanabdalla1/)
 <!-- Check out all the themes you guys can use on ur profile with this link -> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
