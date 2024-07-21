@@ -1,6 +1,6 @@
 ## Hello, I'm Ayman 👋
 
-I'm a passionate software engineer with experience in full-stack development, machine learning, and cloud technologies. I love building solutions that make a real impact.
+<!--I'm a passionate software engineer with experience in full-stack development, machine learning, and cloud technologies. I love building solutions that make a real impact.
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdularif.tech/%2F)](https://abdularif.tech/) 
