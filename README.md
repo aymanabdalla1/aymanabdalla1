@@ -11,7 +11,6 @@ Currently pursuing a degree in Software Engineering at the University of Texas a
 
 I enjoy crafting solutions with a variety of tools and technologies, front-end and back-end tasks. Here's what I use:
 
-## 💻 Programming Languages, Frameworks & Libraries
 
 ### 📋 Core Programming Languages:
 
@@ -27,7 +26,7 @@ I enjoy crafting solutions with a variety of tools and technologies, front-end a
 <!-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 <!-- ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  -->
 
-### 🌐 App & Web Development: 
+### 🎨  App & Web Development: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
