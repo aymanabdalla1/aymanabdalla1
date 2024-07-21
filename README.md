@@ -1,6 +1,6 @@
 ## Hello, I'm Ayman 👋
 
-I'm a passionate software engineer with experience in full-stack development, machine learning, and cloud technologies. I love building solutions that make a real impact.
+Currently pursuing a degree in Software Engineering at the University of Texas at Arlington. Passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:aabdalla12@gmail.com)](mailto:aabdalla12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-abdalla1/)
@@ -9,7 +9,7 @@ I'm a passionate software engineer with experience in full-stack development, ma
 
 ## 🛠 Tech Stack
 
-I'm passionate about building solutions using a wide range of tools and technologies. From front-end to back-end this is what I work with:
+I enjoy crafting solutions with a variety of tools and technologies, front-end and back-end tasks. Here's what I use:
 
 ## 💻 Programming Languages, Frameworks & Libraries
 
