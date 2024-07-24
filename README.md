@@ -17,27 +17,22 @@
 
 ## 📝 About Me
 
-<details> 
-  A lil more about me!
- <li>I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
- </li>
- <br>
+<summary>A lil more about me!</summary>
+I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
+<br>
     
 Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
     
 
-</details>
 
 <h2>🕹️ Interests</h2>
-<details>Some of my hobbies!
+<summary>Some of my hobbies!</summary>
   <li>🎮 Video Games</li>
   <li>🎧 Music</li>
   <li>📖 Reading</li>
   <li>🏕️ Camping</li>
   <li>🥾 Hiking</li>
   <li>🎣 Fishing</li>
-</details>
-
 
 
 ## 🛠 Tech Stack
