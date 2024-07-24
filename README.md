@@ -18,9 +18,9 @@
 ## 📝 About Me
 
 <details> 
-    <summary>Click to learn more about me!</summary>
-    <br>
-    I am currently a senior studying Software Engineering at the University of Texas at Arlington, who is passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals. I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
+  A lil more about me!
+ <li>I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
+ </li>
  <br>
     
 Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
@@ -29,8 +29,7 @@ Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
 </details>
 
 <h2>🕹️ Interests</h2>
-<details><summary>Some of my hobbies!</summary>
-<ul> 
+<details>Some of my hobbies!
   <li>🎮 Video Games</li>
   <li>🎧 Music</li>
   <li>📖 Reading</li>
