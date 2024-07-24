@@ -1,4 +1,17 @@
-## Hello, I'm Ayman 👋
+<h1 align="center">Hello, I'm Ayman 👋</h1>
+<h3 align="center">Currently pursuing a degree in Software Engineering at the University of Texas at Arlington. Passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals!</h3>
+<div id="badges" align="center">
+  <a href="mailto:aabdalla12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:aabdalla12@gmail.com" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/ayman-abdalla1/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://aymanabdalla.me/resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" alt="Resume"/>
+  <a href="https://aymanabdalla.me/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
 
 Currently pursuing a degree in Software Engineering at the University of Texas at Arlington. Passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals!
 
