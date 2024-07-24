@@ -15,6 +15,32 @@
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://aymanabdalla.me/resume)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymanabdalla.me/)-->
 
+## 📝 About Me
+
+<details> 
+    <summary>Click to learn more about me!</summary>
+    <br>
+    I am currently a senior studying Software Engineering at the University of Texas at Arlington, who is passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals. I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
+ <br>
+    
+Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
+    
+
+</details>
+
+<h2>🕹️ Interests</h2>
+<details><summary>Some of my hobbies!</summary>
+<ul> 
+  <li>🎮 Video Games</li>
+  <li>🎧 Music</li>
+  <li>📖 Reading</li>
+  <li>🏕️ Camping</li>
+  <li>🥾 Hiking</li>
+  <li>🎣 Fishing</li>
+</details>
+
+
+
 ## 🛠 Tech Stack
 
 I enjoy crafting solutions with a variety of tools and technologies, front-end and back-end tasks. Here's what I use:
@@ -59,30 +85,6 @@ I enjoy crafting solutions with a variety of tools and technologies, front-end a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--[Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)-->
 
-
-## 📝 About Me
-
-<details> 
-    <summary>Click to learn more about me!</summary>
-    <br>
-    I am currently a senior studying Software Engineering at the University of Texas at Arlington, who is passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals. I have great interest in numerous types of software development such as machine learning, computer vision, and full-stack development. In my free time, I enjoy spending time outside, reading, thrifting, and hanging out with friends.
- <br>
-    
-Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
-    
-
-</details>
-
-<h2>🕹️ Interests</h2>
-<details><summary>Some of my hobbies!</summary>
-<ul> 
-  <li>🎮 Video Games</li>
-  <li>🎧 Music</li>
-  <li>📖 Reading</li>
-  <li>🏕️ Camping</li>
-  <li>🥾 Hiking</li>
-  <li>🎣 Fishing</li>
-</details>
 
 
 ## 📈 Stats
