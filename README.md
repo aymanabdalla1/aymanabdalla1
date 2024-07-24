@@ -25,7 +25,6 @@ Fun Facts: I like cats, I have a twin brother, and my favorite fruits are plums!
 
 
 <h2>🕹️ Interests</h2>
-Some of my hobbies!
   <li>🎮 Video Games</li>
   <li>🎧 Music</li>
   <li>📖 Reading</li>
