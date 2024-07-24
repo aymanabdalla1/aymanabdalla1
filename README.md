@@ -13,12 +13,12 @@
 </div>
 
 
-Currently pursuing a degree in Software Engineering at the University of Texas at Arlington. Passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals!
+<!--Currently pursuing a degree in Software Engineering at the University of Texas at Arlington. Passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:aabdalla12@gmail.com)](mailto:aabdalla12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-abdalla1/)
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://aymanabdalla.me/resume)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymanabdalla.me/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymanabdalla.me/)-->
 
 ## 🛠 Tech Stack
 
