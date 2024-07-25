@@ -1,6 +1,6 @@
  <h1 align="center">Hello, I'm Ayman 👋</h1>
 <h3 align="center">Software Engineering student @ UTA</h3>
-<h4 align="center">Committed to innovative problem-solving and professional growth.</h4>
+<h3 align="center">Committed to innovative problem-solving and professional growth.</h3>
 <!-- <h3 align="center">Currently pursuing a degree in Software Engineering at the University of Texas at Arlington. Passionate about problem-solving software development, contributing to innovative projects, and learning from experienced professionals!</h3> -->
 <div id="badges" align="center">
   <a href="mailto:aabdalla12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:aabdalla12@gmail.com" alt="Gmail"/></a>
